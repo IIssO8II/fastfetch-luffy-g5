@@ -3,6 +3,9 @@
 
 ![Fastfetch](https://github.com/IIssO8II/fastfetch-luffy-g5/blob/main/preview.png)
 
+> [!IMPORTANT]
+> Recuerda, tu terminal debe soportar renderizado de imágenes para poder usar esta configuración de Fastfetch. La terminal Kitty lo soporta, Alacritty por ahora no.   
+
 ## Instalación
 
 ```sh
