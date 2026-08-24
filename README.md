@@ -1,13 +1,13 @@
 > [!NOTE]
 > Esta es una personalización que hice tomando como base el Fastfetch de [harilvfs](https://github.com/harilvfs/fastfetch)
 
-![Fastfetch](https://github.com/IIssO8II/fastfetch/blob/main/preview.png)
+![Fastfetch](https://github.com/IIssO8II/fastfetch-luffy-g5/blob/main/preview.png)
 
 ## Instalación
 
 ```sh
 rm -r ~/.config/fastfetch
-git clone https://github.com/IIssO8II/fastfetch.git ~/.config/fastfetch
+git clone https://github.com/IIssO8II/fastfetch-luffy-g5.git ~/.config/fastfetch
 ```
 
 > [¡Advertencia!]
